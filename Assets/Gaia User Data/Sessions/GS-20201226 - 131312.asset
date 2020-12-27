@@ -32,7 +32,7 @@ MonoBehaviour:
   m_operations:
   - m_description: 'Creating World: 1 x 1 tiles, tile size: 512'
     m_operationType: 0
-    m_isActive: 1
+    m_isActive: 0
     m_affectedTerrainNames: []
     m_operationDateTime: 12/26/2020 1:13:13 PM
     scriptableObjectAssetGUID: 5f4df079376cd924b8e4543b86fbfe5b
@@ -42,7 +42,7 @@ MonoBehaviour:
     m_serializedExternalAction: 
   - m_description: RaiseHeight - No Masks
     m_operationType: 4
-    m_isActive: 1
+    m_isActive: 0
     m_affectedTerrainNames:
     - Terrain_0_0-20201226 - 131312
     m_operationDateTime: 12/26/2020 1:40:37 PM
@@ -53,7 +53,7 @@ MonoBehaviour:
     m_serializedExternalAction: 
   - m_description: Spawning - Gaia Pro Sample-Texture(Clone)
     m_operationType: 7
-    m_isActive: 1
+    m_isActive: 0
     m_affectedTerrainNames:
     - Terrain_0_0-20201226 - 131312
     m_operationDateTime: 12/26/2020 1:40:38 PM
@@ -62,11 +62,144 @@ MonoBehaviour:
     sessionPlaybackState: 1
     m_terrainsFoldedOut: 0
     m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 256'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 12/27/2020 9:39:10 AM
+    scriptableObjectAssetGUID: ca1dc88e3d1ca3a4595d0fdf3e4dbf07
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: HeightTransform - No Masks
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20201227 - 093910
+    m_operationDateTime: 12/27/2020 9:55:26 AM
+    scriptableObjectAssetGUID: ef8f72fe956e17a4fafbc9ae45f3c189
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Texture(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20201227 - 093910
+    m_operationDateTime: 12/27/2020 9:55:27 AM
+    scriptableObjectAssetGUID: bef4074a6527e0b44a35844845fc54bd
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 256'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 12/27/2020 9:56:46 AM
+    scriptableObjectAssetGUID: 28f5262e41f393e4a81437a03718ae9a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: HeightTransform - No Masks
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20201227 - 095646
+    m_operationDateTime: 12/27/2020 10:00:31 AM
+    scriptableObjectAssetGUID: 21ceb8492d461dc46bf6503b75b05e03
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Texture(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20201227 - 095646
+    m_operationDateTime: 12/27/2020 10:00:32 AM
+    scriptableObjectAssetGUID: 0a5644623d0d22f4d9ae72ce977f07d9
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20201227 - 095646
+    m_operationDateTime: 12/27/2020 10:01:24 AM
+    scriptableObjectAssetGUID: 06aac8d56c3504a43944ea46e73be616
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Undo - 1 Terrains
+    m_operationType: 5
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20201227 - 095646
+    m_operationDateTime: 12/27/2020 10:01:27 AM
+    scriptableObjectAssetGUID: 6cfaa2ed130335e4bb6f19b33c40c7ee
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 256'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 12/27/2020 10:02:17 AM
+    scriptableObjectAssetGUID: 06c69c6eb30ea4f4d96f34bc01c6d80e
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: SetHeight - No Masks
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20201227 - 100216
+    m_operationDateTime: 12/27/2020 10:08:48 AM
+    scriptableObjectAssetGUID: c14744f30ae08c8429160386ac913810
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Texture(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20201227 - 100216
+    m_operationDateTime: 12/27/2020 10:08:49 AM
+    scriptableObjectAssetGUID: 4035fa63b208a094e859b13e81f337ea
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
   m_terrainMinMaxCache:
   - guid: 8bd026a4a2b800849889ecacd40567e6
     isWorldmap: 0
     recalculate: 0
-    min: 14.281468
-    max: 50.063263
+    min: 13.468956
+    max: 50.37577
+  - guid: 9f65593350bc43f4dac56433dedde716
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: 43acba20360924c4a9b386964540036b
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 0
+  - guid: afb5458d43f06b84a9f16bc48fd45b1a
+    isWorldmap: 0
+    recalculate: 0
+    min: 15.711177
+    max: 22.52378
   m_bakedMaskCacheEntries: []
   m_worldBiomeMaskSettings: {fileID: 0}

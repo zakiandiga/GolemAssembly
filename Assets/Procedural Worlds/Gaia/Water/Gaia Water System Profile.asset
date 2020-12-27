@@ -105,29 +105,23 @@ MonoBehaviour:
     - 0
     m_textureResolution: 512
   m_editSettings: 1
-  m_selectedWaterProfileValuesIndex: 0
+  m_selectedWaterProfileValuesIndex: 2
   m_useCastics: 1
   m_mainCausticLight: {fileID: 0}
   m_causticFramePerSecond: 24
   m_causticSize: 10
-  m_waterPrefab: {fileID: 8463162857090469484, guid: 0289bd53a8e96fe4da3c721fe9288f0c,
-    type: 3}
-  m_underwaterParticles: {fileID: 1704632558949432, guid: 8f280f27096beaa429f2521421c0f1a0,
-    type: 3}
-  m_underwaterHorizonPrefab: {fileID: 1762948802001946, guid: a9270767b60533943b5996ad0d3c6efb,
-    type: 3}
-  m_hdPlanarReflections: {fileID: 3729542902596579419, guid: 1def95bda59c33147bf5641701b542bb,
-    type: 3}
-  m_transitionFXPrefab: {fileID: 4980667631650436034, guid: e5b41c9d610f3dd48993c4a07e4bbcff,
-    type: 3}
+  m_waterPrefab: {fileID: 8463162857090469484, guid: 0289bd53a8e96fe4da3c721fe9288f0c, type: 3}
+  m_underwaterParticles: {fileID: 1704632558949432, guid: 8f280f27096beaa429f2521421c0f1a0, type: 3}
+  m_underwaterHorizonPrefab: {fileID: 1762948802001946, guid: a9270767b60533943b5996ad0d3c6efb, type: 3}
+  m_hdPlanarReflections: {fileID: 3729542902596579419, guid: 1def95bda59c33147bf5641701b542bb, type: 3}
+  m_transitionFXPrefab: {fileID: 4980667631650436034, guid: e5b41c9d610f3dd48993c4a07e4bbcff, type: 3}
   m_waterProfiles:
   - m_typeOfWater: Deep Blue Ocean
     m_profileRename: 
     m_userCustomProfile: 0
-    m_postProcessProfileBuiltIn: {fileID: 11400000, guid: 621882b688d3a034a8377536e9c0ef66,
-      type: 2}
     m_postProcessingProfileGUIDBuiltIn: 621882b688d3a034a8377536e9c0ef66
     m_directToCamera: 0
+    m_postProcessProfileURP: {fileID: 0}
     m_postProcessingProfileGUIDURP: eab86dbbf9117fb4f9a54b786b342118
     m_postProcessingProfileGUIDHDRP: aba43adbffd9e0840b1c05267e0f8aa4
     m_underwaterFogGradient:
@@ -235,8 +229,7 @@ MonoBehaviour:
     m_foamTexture: {fileID: 2800000, guid: 27682bc3f6c60ee41a1ac2d0bdb3f696, type: 3}
     m_foamAlphaRamp: {fileID: 2800000, guid: 25c5404bd86c64615a27ddad4d9d0b19, type: 3}
     m_renderTexture: {fileID: 0}
-    m_foamBubbleTexture: {fileID: 2800000, guid: e65a4cfa3d384d045aac1320a51c9c1c,
-      type: 3}
+    m_foamBubbleTexture: {fileID: 2800000, guid: e65a4cfa3d384d045aac1320a51c9c1c, type: 3}
     m_refractionRenderResolution: -2
     m_waterGradient:
       serializedVersion: 2
@@ -295,10 +288,9 @@ MonoBehaviour:
   - m_typeOfWater: Clear Blue Ocean
     m_profileRename: 
     m_userCustomProfile: 0
-    m_postProcessProfileBuiltIn: {fileID: 11400000, guid: 621882b688d3a034a8377536e9c0ef66,
-      type: 2}
     m_postProcessingProfileGUIDBuiltIn: 621882b688d3a034a8377536e9c0ef66
     m_directToCamera: 1
+    m_postProcessProfileURP: {fileID: 0}
     m_postProcessingProfileGUIDURP: eab86dbbf9117fb4f9a54b786b342118
     m_postProcessingProfileGUIDHDRP: aba43adbffd9e0840b1c05267e0f8aa4
     m_underwaterFogGradient:
@@ -406,8 +398,7 @@ MonoBehaviour:
     m_foamTexture: {fileID: 2800000, guid: 27682bc3f6c60ee41a1ac2d0bdb3f696, type: 3}
     m_foamAlphaRamp: {fileID: 2800000, guid: 25c5404bd86c64615a27ddad4d9d0b19, type: 3}
     m_renderTexture: {fileID: 0}
-    m_foamBubbleTexture: {fileID: 2800000, guid: e65a4cfa3d384d045aac1320a51c9c1c,
-      type: 3}
+    m_foamBubbleTexture: {fileID: 2800000, guid: e65a4cfa3d384d045aac1320a51c9c1c, type: 3}
     m_refractionRenderResolution: -2
     m_waterGradient:
       serializedVersion: 2
@@ -466,10 +457,9 @@ MonoBehaviour:
   - m_typeOfWater: Standard Lake
     m_profileRename: 
     m_userCustomProfile: 0
-    m_postProcessProfileBuiltIn: {fileID: 11400000, guid: 621882b688d3a034a8377536e9c0ef66,
-      type: 2}
     m_postProcessingProfileGUIDBuiltIn: 621882b688d3a034a8377536e9c0ef66
     m_directToCamera: 1
+    m_postProcessProfileURP: {fileID: 0}
     m_postProcessingProfileGUIDURP: eab86dbbf9117fb4f9a54b786b342118
     m_postProcessingProfileGUIDHDRP: aba43adbffd9e0840b1c05267e0f8aa4
     m_underwaterFogGradient:
@@ -577,8 +567,7 @@ MonoBehaviour:
     m_foamTexture: {fileID: 2800000, guid: 27682bc3f6c60ee41a1ac2d0bdb3f696, type: 3}
     m_foamAlphaRamp: {fileID: 2800000, guid: 25c5404bd86c64615a27ddad4d9d0b19, type: 3}
     m_renderTexture: {fileID: 0}
-    m_foamBubbleTexture: {fileID: 2800000, guid: e65a4cfa3d384d045aac1320a51c9c1c,
-      type: 3}
+    m_foamBubbleTexture: {fileID: 2800000, guid: e65a4cfa3d384d045aac1320a51c9c1c, type: 3}
     m_refractionRenderResolution: -2
     m_waterGradient:
       serializedVersion: 2
@@ -637,10 +626,9 @@ MonoBehaviour:
   - m_typeOfWater: Standard Clear Lake
     m_profileRename: 
     m_userCustomProfile: 0
-    m_postProcessProfileBuiltIn: {fileID: 11400000, guid: 621882b688d3a034a8377536e9c0ef66,
-      type: 2}
     m_postProcessingProfileGUIDBuiltIn: 621882b688d3a034a8377536e9c0ef66
     m_directToCamera: 1
+    m_postProcessProfileURP: {fileID: 0}
     m_postProcessingProfileGUIDURP: eab86dbbf9117fb4f9a54b786b342118
     m_postProcessingProfileGUIDHDRP: aba43adbffd9e0840b1c05267e0f8aa4
     m_underwaterFogGradient:
@@ -748,8 +736,7 @@ MonoBehaviour:
     m_foamTexture: {fileID: 2800000, guid: 27682bc3f6c60ee41a1ac2d0bdb3f696, type: 3}
     m_foamAlphaRamp: {fileID: 2800000, guid: 25c5404bd86c64615a27ddad4d9d0b19, type: 3}
     m_renderTexture: {fileID: 0}
-    m_foamBubbleTexture: {fileID: 2800000, guid: e65a4cfa3d384d045aac1320a51c9c1c,
-      type: 3}
+    m_foamBubbleTexture: {fileID: 2800000, guid: e65a4cfa3d384d045aac1320a51c9c1c, type: 3}
     m_refractionRenderResolution: -2
     m_waterGradient:
       serializedVersion: 2
@@ -808,10 +795,9 @@ MonoBehaviour:
   - m_typeOfWater: Low Poly
     m_profileRename: 
     m_userCustomProfile: 0
-    m_postProcessProfileBuiltIn: {fileID: 11400000, guid: 621882b688d3a034a8377536e9c0ef66,
-      type: 2}
     m_postProcessingProfileGUIDBuiltIn: 621882b688d3a034a8377536e9c0ef66
     m_directToCamera: 1
+    m_postProcessProfileURP: {fileID: 0}
     m_postProcessingProfileGUIDURP: eab86dbbf9117fb4f9a54b786b342118
     m_postProcessingProfileGUIDHDRP: aba43adbffd9e0840b1c05267e0f8aa4
     m_underwaterFogGradient:
@@ -919,8 +905,7 @@ MonoBehaviour:
     m_foamTexture: {fileID: 2800000, guid: 27682bc3f6c60ee41a1ac2d0bdb3f696, type: 3}
     m_foamAlphaRamp: {fileID: 2800000, guid: 25c5404bd86c64615a27ddad4d9d0b19, type: 3}
     m_renderTexture: {fileID: 0}
-    m_foamBubbleTexture: {fileID: 2800000, guid: e65a4cfa3d384d045aac1320a51c9c1c,
-      type: 3}
+    m_foamBubbleTexture: {fileID: 2800000, guid: e65a4cfa3d384d045aac1320a51c9c1c, type: 3}
     m_refractionRenderResolution: -2
     m_waterGradient:
       serializedVersion: 2
@@ -976,8 +961,7 @@ MonoBehaviour:
     m_foamBubblesStrength: 1
     m_foamEdge: 0.25
     m_foamMoveSpeed: 0.3
-  m_activeWaterMaterial: {fileID: 2100000, guid: d78665a70a1b24b1589a21f59a8c8ee7,
-    type: 2}
+  m_activeWaterMaterial: {fileID: 2100000, guid: d78665a70a1b24b1589a21f59a8c8ee7, type: 2}
   m_enableWaterMeshQuality: 1
   m_waterMeshQuality: 7
   m_meshType: 1
