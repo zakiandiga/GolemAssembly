@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf0b22f014ec7be40896c70f04417587, type: 3}
   m_Name: GaiaSettings
   m_EditorClassIdentifier: 
-  m_currentController: 1
+  m_currentController: 6
   m_customPlayerObject: {fileID: 0}
   m_customPlayerCamera: {fileID: 0}
-  m_currentSize: 0
+  m_currentSize: 1
   m_currentEnvironment: 2
   m_currentRenderer: 2
   m_currentDefaults: {fileID: 11400000, guid: 54f4fac3c7f0a1e44a45853d26c87b49, type: 2}
@@ -24,7 +24,7 @@ MonoBehaviour:
   m_createTerrainScenes: 0
   m_unloadTerrainScenes: 0
   m_floatingPointFix: 0
-  m_targeSizePreset: 0
+  m_targeSizePreset: 1
   m_defaultStampSpawnSettings: {fileID: 11400000, guid: 81b0e93a964e9804c9806f8bde6ba9ec, type: 2}
   m_defaultBiomeMaskSettings: {fileID: 0}
   m_spawnSimulateComputeShader: {fileID: 7200000, guid: ab31bdb5aecea3744951fb814c0d268b, type: 3}
@@ -36,17 +36,17 @@ MonoBehaviour:
   m_saveCollisionCacheWhenSaving: 0
   m_terrainUnloadMemoryTreshold: 4294967296
   m_worldmapLayer: {fileID: 8574412962073106934, guid: 957ef5b80c80fde429be14ca5eeed1ae, type: 2}
-  m_enableAmbientAudio: 1
+  m_enableAmbientAudio: 0
   m_enablePostProcessing: 1
-  m_enableLocationManager: 1
+  m_enableLocationManager: 0
   m_enableLoadingScreen: 1
   m_currentPostFX: 0
   m_currentWater: 0
   m_currentWaterPro: 1
   m_enableUnderwaterEffects: 1
-  m_createWind: 1
+  m_createWind: 0
   m_windType: 0
-  m_createScreenShotter: 1
+  m_createScreenShotter: 0
   m_focusPlayerOnSetup: 0
   m_FPFDefaultThreshold: 5000
   m_XRControllerPackageName: GaiaXRController.unitypackage

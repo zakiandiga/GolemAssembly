@@ -34,6 +34,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 24fce1bf04835304c8d56131037b6d87, type: 2}
   - {fileID: 11400000, guid: 5a895c103d05c744891ffe6eba7d276d, type: 2}
   - {fileID: 11400000, guid: 9fbafd03df244514284cb5590d82c699, type: 2}
+  - {fileID: 11400000, guid: ff0a0b1ab5a6fd6459156aadc7bb92d0, type: 2}
   m_exportTerrainSettings:
   - {fileID: 11400000, guid: e2f4c9ca1bbf7e14f8cf0968afef1545, type: 2}
   - {fileID: 11400000, guid: 4df53086319f20747ae21f39ef7a76aa, type: 2}

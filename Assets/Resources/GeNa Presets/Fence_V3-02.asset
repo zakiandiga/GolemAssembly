@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16233f0d18c1a8942b4b0b8fa065ef4a, type: 3}
+  m_Name: Fence_V3-02
+  m_EditorClassIdentifier: 
+  _activeProperties: []
+  m_parentName: P_PROP_fence_v03_02
+  m_type: 0
+  m_spawnMode: 1
+  m_flowDistance: 0.9
+  m_spawnRangeShape: 0
+  m_randomSeed: 655902
+  m_maxSpawnRange: 1
+  m_seedThrowRange: 1
+  m_minInstances: 21
+  m_maxInstances: 21
+  m_mergeSpawns: 1
+  m_doSectorise: 1
+  m_sectorReparentingMode: 0
+  m_spawnAlgorithm: 2
+  m_seedThrowJitter: 1
+  m_rotationAlgorithm: 3
+  m_enableRotationDragUpdate: 0
+  m_minRotationY: 0
+  m_maxRotationY: 0
+  m_sameScale: 1
+  m_minScaleX: 1
+  m_maxScaleX: 1
+  m_minScaleY: 0.7
+  m_maxScaleY: 1.3
+  m_minScaleZ: 0.7
+  m_maxScaleZ: 1.3
+  m_useGravity: 0
+  m_critVirginCheckType: 2
+  m_critBoundsBorder: 0
+  m_critSpawnCollisionLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_critCheckHeightType: 0
+  m_critMinSpawnHeight: -20
+  m_critMaxSpawnHeight: 4256
+  m_critHeightVariance: 30
+  m_critCheckSlopeType: 0
+  m_critMinSpawnSlope: 0
+  m_critMaxSpawnSlope: 90
+  m_critSlopeVariance: 30
+  m_critCheckTextures: 0
+  m_critTextureStrength: 1
+  m_critTextureVariance: 0.1
+  m_critCheckMask: 0
+  m_critMaskType: 0
+  m_critMaskFractalMidpoint: 0.5
+  m_critMaskFractalRange: 0.5
+  m_critMaskInvert: 0
+  m_sortPrototypes: 0
+  m_spawnToAVS: 0
+  m_childSpawnMode: 0
+  m_spawnToTarget: 0
+  m_advForcePlaceAtClickLocation: 0
+  m_advUseLargeRanges: 0
+  m_scaleToNearestInt: 1
+  m_globalSpawnJitterPct: 0.75
+  m_advSpawnCheckOffset: 2000
+  m_autoProbe: 1
+  m_minProbeGroupDistance: 100
+  m_minProbeDistance: 15
+  m_autoOptimise: 0
+  m_maxSizeToOptimise: 10

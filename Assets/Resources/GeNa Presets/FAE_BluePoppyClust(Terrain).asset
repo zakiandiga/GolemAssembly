@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16233f0d18c1a8942b4b0b8fa065ef4a, type: 3}
+  m_Name: FAE_BluePoppyClust(Terrain)
+  m_EditorClassIdentifier: 
+  _activeProperties:
+  - Type
+  - SpawnMode
+  - FlowDistance
+  - SpawnRangeShape
+  - RandomSeed
+  - MaxSpawnRange
+  - SeedThrowRange
+  - MinInstances
+  - MaxInstances
+  - SpawnAlgorithm
+  - CritCheckHeightType
+  - CritCheckSlopeType
+  - CritCheckTextures
+  m_parentName: BluePoppyCluster
+  m_type: 0
+  m_spawnMode: 1
+  m_flowDistance: 1.2
+  m_spawnRangeShape: 0
+  m_randomSeed: 311804
+  m_maxSpawnRange: 2
+  m_seedThrowRange: 1
+  m_minInstances: 1
+  m_maxInstances: 1
+  m_mergeSpawns: 1
+  m_doSectorise: 1
+  m_sectorReparentingMode: 0
+  m_spawnAlgorithm: 3
+  m_seedThrowJitter: 1
+  m_rotationAlgorithm: 0
+  m_enableRotationDragUpdate: 0
+  m_minRotationY: 0
+  m_maxRotationY: 360
+  m_sameScale: 1
+  m_minScaleX: 1
+  m_maxScaleX: 1
+  m_minScaleY: 1
+  m_maxScaleY: 1
+  m_minScaleZ: 1
+  m_maxScaleZ: 1
+  m_useGravity: 0
+  m_critVirginCheckType: 2
+  m_critBoundsBorder: 1.51
+  m_critSpawnCollisionLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_critCheckHeightType: 0
+  m_critMinSpawnHeight: -20
+  m_critMaxSpawnHeight: 4256
+  m_critHeightVariance: 30
+  m_critCheckSlopeType: 0
+  m_critMinSpawnSlope: 0
+  m_critMaxSpawnSlope: 90
+  m_critSlopeVariance: 30
+  m_critCheckTextures: 1
+  m_critTextureStrength: 1
+  m_critTextureVariance: 0
+  m_critCheckMask: 0
+  m_critMaskType: 0
+  m_critMaskFractalMidpoint: 0.5
+  m_critMaskFractalRange: 0.5
+  m_critMaskInvert: 0
+  m_sortPrototypes: 0
+  m_spawnToAVS: 0
+  m_childSpawnMode: 0
+  m_spawnToTarget: 0
+  m_advForcePlaceAtClickLocation: 0
+  m_advUseLargeRanges: 0
+  m_scaleToNearestInt: 0
+  m_globalSpawnJitterPct: 0.75
+  m_advSpawnCheckOffset: 2000
+  m_autoProbe: 1
+  m_minProbeGroupDistance: 100
+  m_minProbeDistance: 15
+  m_autoOptimise: 0
+  m_maxSizeToOptimise: 10
